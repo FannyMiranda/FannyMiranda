@@ -10,6 +10,7 @@
      height: 20vh;
      text-align: center;
      overflow: hidden;
+     font-size: 1.4rem
      
    
  }
@@ -36,7 +37,10 @@
  footer a {
      letter-spacing: 0.05em;
      padding-left: 4em;
-     color:aqua;
+     color:black;
+     font-family: cursive;
      text-decoration:none;
+     
+     
 
      }
