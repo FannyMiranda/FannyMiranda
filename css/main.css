@@ -1,17 +1,42 @@
-                        /*LAYOUT*/
+ /*LAYOUT*/
 
-section {
-  height: 80vh;
-  overflow:hidden;
+ section {
+     height: 80vh;
+     overflow: hidden;
 
-}
+ }
 
-footer {
-  height: 20vh;
-   text-align: center;
-   overflow:hidden;
-}
+ footer {
+     height: 20vh;
+     text-align: center;
+     overflow: hidden;
+     
+   
+ }
 
-.container {
-  padding: 2em;
-}
+ .container {
+     padding: 2em;
+ }
+
+ /*TIPOGRAFIA*/
+
+ p {
+
+     font-family: 'Satisfy', cursive;
+     font-size: 3rem;
+     text-align: center;
+ }
+
+ h1 {
+     font-family: 'Forum', cursive;
+     font-size: 3rem;
+
+ }
+
+ footer a {
+     letter-spacing: 0.05em;
+     padding-left: 4em;
+     color:aqua;
+     text-decoration:none;
+
+     }
