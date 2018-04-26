@@ -1,0 +1,17 @@
+                        /*LAYOUT*/
+
+section {
+  height: 80vh;
+  overflow:hidden;
+
+}
+
+footer {
+  height: 20vh;
+   text-align: center;
+   overflow:hidden;
+}
+
+.container {
+  padding: 2em;
+}
